@@ -1,5 +1,3 @@
 <template>
-  <div class="about">
-    <h1>This is an Note page</h1>
-  </div>
+  <div class="note">This is a Note Page</div>
 </template>
